@@ -113,7 +113,7 @@
         <div class="row">
 
           <div class="col-md-12 col-xs-12 ">
-          <a href="https://docs.google.com/forms/d/1WJdeVuI6mtbr_jQ-R4Z-y9FkG-C5jynlpvZxBKyqclI/viewform"
+          <a href="https://goo.gl/forms/bByOqoyK5Nxvqwyh2"
           class="reserve-button scroll-to" 
           target="_blank" 
           style="background-color: #FF0000;  color: #fff;  height: 50px;  font-size: 34px;  font-weight: 900;  padding: 5px 15px;  text-transform: uppercase;  -webkit-transition: .2s;  transition: .2s;">
